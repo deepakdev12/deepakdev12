@@ -1,4 +1,4 @@
-👋 Hi there! I'm Deepak Dharmode, a passionate and aspiring web developer currently on an exciting journey to master the art of building beautiful and functional websites.
+👋 Hi there! I'm Deepak, a passionate and aspiring web developer currently on an exciting journey to master the art of building beautiful and functional websites.
 
 🌱 I'm currently learning web development from UpGrad Institute and the Scrimba community, where I'm diving deep into HTML, CSS, JavaScript, and modern frameworks like React.
 
