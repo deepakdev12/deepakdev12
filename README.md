@@ -1,40 +1,38 @@
-## Namste 🙏, I'm Deepak Dharmode   
+## Namaste 🙏, I'm Deepak Dharmode   
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+### 📫 How to reach me: deepakdharmode@gmail.com
   
-
-
-
-### 📫 How to reach me deepakdharmode@gmail.com
-  
-<a href="https://dev.to/deepakdev12 " target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<a href="https://dev.to/deepakdev12" target="_blank">
+<img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepak-dharmode-3b0111339" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/deepak-dharmode-3b0111339" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="https://instagram.com/deepakd.12" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
-<a href="https://github.com/deepakdev12 " target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/deepakdev12" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>  
-  
-
-</td><td valign="top" width="30%">
-
-<div align="center">
-<img src="https://camo.githubusercontent.com/2eedf25c65a9269ed2097998da5fded175a37ee0997c3d2c83dfde65eb6d88a4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table> 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of learning into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge back-end support.
+I’m a full-stack developer who has turned years of learning into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop them with cutting-edge back-end support.
 
-I specialize in building fully responsive web applications that make your app or website futuristic and user friendly. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimization and also promising technologies like Blockchain and PWAs.  
-  
+I specialize in building fully responsive web applications that make your app or website futuristic and user-friendly. I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. I also frequently blog about the world behind the screen, covering system designs, databases, security, servers, optimization, and emerging technologies like Blockchain and PWAs.
 
-<br/>  
+</td>
+<td width="30%" align="right" valign="top">
+
+<img src="https://camo.githubusercontent.com/2eedf25c65a9269ed2097998da5fded175a37ee0997c3d2c83dfde65eb6d88a4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966" width="100%" alt="GIF" />
+
+</td>
+</tr>
+</table>
+
 
 # 💫 About Me:
 🔭 I’m currently working on  <br>- A MERN stack web application that enhances user experience with real-time features.<br><br>👯 I’m looking to collaborate on  <br>- Open-source projects related to React, Node.js, and MongoDB.  <br>- Building "scalable web applications" and "contributing to innovative ideas".  <br><br>🤝 I’m looking for help with  <br>- Improving my backend skills, especially in optimizing APIs and databases.  <br>- Learning advanced DevOpsand CI/CD pipelines for better deployment strategies.  <br><br>🌱 I’m currently learning  <br>- Next.js for frontend development.  <br>- Database best practices for efficient database management.  <br>- Telecommunication basics to expand my technical knowledge.  <br><br>💬 Ask me about  <br>- frontend development.  <br>- MERN stack best practices and optimization techniques.  <br>- How to collaborate on GitHub and version control strategies.  <br><br>⚡ Fun fact  <br>- 💻 The first computer virus was created **as a joke**. Now look where we are! 😅 <br>
