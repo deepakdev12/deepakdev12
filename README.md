@@ -5,7 +5,13 @@
 <td width="70%" valign="top">
 
 ### 📫 How to reach me: deepakdharmode@gmail.com
-🔗 **Visit my Portfolio:** [Click Here](dev-portfolio-cyan-one.vercel.app/)
+# My Portfolio
+
+![Portfolio Logo](https://img.icons8.com/?size=96&id=LoyAjcvVKv1K&format=png)
+
+Check out my work and projects on my portfolio website.
+
+🚀 **Explore My Creations:** [🌐 Dive In!](https://dev-portfolio-cyan-one.vercel.app/)
   
 <a href="https://dev.to/deepakdev12" target="_blank">
 <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" />
